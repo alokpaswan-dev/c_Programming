@@ -11,5 +11,4 @@ c programming practice while learning c language.
 ## Goal
 Build a strong foundation in C programming before learning DSA  
 
-##Author
-Alok Paswan
+
