@@ -3,10 +3,10 @@ This repository contain all my
 c programming practice while learning c language.
 
 ## Topic Covered
--Basic /n
--Operators /n 
--Conditional Statements /n
--Loops /n
+-Basic 
+-Operators 
+-Conditional Statements 
+-Loops 
 
 ## Goal
 Build a strong foundation in C programming before learning DSA  
